@@ -6,8 +6,7 @@
 
 ## 2. Cat
 
-`ScrollCat.java` is a program that creates an image of a cat. It initally was supposed to be lying down on its back but I changed it to a cat sitting up and asking for something. The initial inspiration was from: 
-![](https://www.istockphoto.com/photo/playful-silver-tabby-british-shorthair-cat-lying-on-back-on-carpet-gm1359146906-432570680)
+`ScrollCat.java` is a program that creates an image of a cat. It initally was supposed to be lying down on its back but I changed it to a cat sitting up and asking for something. The initial inspiration was from: (https://www.istockphoto.com/photo/playful-silver-tabby-british-shorthair-cat-lying-on-back-on-carpet-gm1359146906-432570680)
 
 (Citation Points: 1)
 
@@ -15,9 +14,9 @@
 
 For both images, I went online and searched for inspiration. I used ASCIIFlow (https://asciiflow.com/#/) to draw the images. 
 My process for creating the cat image can be seen here: 
-![](Cat_process_1.png)
-![](Cat_process_2.png)
-![](Cat_process_3.png)
+![](Cat_Process_1.png)
+![](Cat_Process_2.png)
+![](Cat_Process_3.png)
 
 ## Credit
 
