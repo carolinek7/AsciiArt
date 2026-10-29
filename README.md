@@ -20,4 +20,8 @@ My process for creating the cat image can be seen here:
 
 ## Credit
 
-I used ifenghm's scroll-art ScollArtV1.java file to create the scrolling effect. I added onto it to ensure that the images would not overlap.
+I used ifenghm's scroll-art ScrollArtV1.java file to create the scrolling effect. I added onto it to ensure that the images would not overlap.
+
+I used ifenghm's scroll-art AsciiArt.java code to make implementing others' work a lot easier. 
+
+For practice, I used eyanghm's miffy design (https://github.com/eyanghm/scroll-art/blob/main/src/Art.java), janezzhao's snoopy design (https://github.com/janezzhao/scroll-art), ewang821's peppa princess design (https://github.com/ewang821/scroll-art/tree/main/ASCIIProject), and iamacompscikid-90's woodstock design (https://github.com/iamacompscikid-90/Scroll-Art.git). These can be found in ScrollArtV2.
